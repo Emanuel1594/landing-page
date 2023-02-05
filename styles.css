@@ -31,7 +31,7 @@ body {
     /* border: 3px solid greenyellow; For Debugging */
 }
 
- /*.container-2, .container-3, .container-4, .footer {
+/*.container-2, .container-3, .container-4, .footer {
     
     border: 1px solid;
 } /*For Debugging*/
@@ -78,7 +78,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 180px;
-    height: 320px;
+    height: 360px;
     background-color: #1f2937;
 }
 
